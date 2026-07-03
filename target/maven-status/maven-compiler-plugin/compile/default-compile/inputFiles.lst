@@ -1,8 +1,0 @@
-/Users/amreshverma/git/trade/trade-user-service/src/main/java/com/trade/user/TradeUserServiceApplication.java
-/Users/amreshverma/git/trade/trade-user-service/src/main/java/com/trade/user/controller/UserController.java
-/Users/amreshverma/git/trade/trade-user-service/src/main/java/com/trade/user/dto/UserRequest.java
-/Users/amreshverma/git/trade/trade-user-service/src/main/java/com/trade/user/dto/UserResponse.java
-/Users/amreshverma/git/trade/trade-user-service/src/main/java/com/trade/user/entity/Role.java
-/Users/amreshverma/git/trade/trade-user-service/src/main/java/com/trade/user/entity/User.java
-/Users/amreshverma/git/trade/trade-user-service/src/main/java/com/trade/user/repository/UserRepository.java
-/Users/amreshverma/git/trade/trade-user-service/src/main/java/com/trade/user/service/UserService.java
