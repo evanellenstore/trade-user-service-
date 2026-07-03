@@ -1,0 +1,17 @@
+server:
+  port: 6066
+
+spring:
+  application:
+    name: trade-user-service
+
+  datasource:
+    url: jdbc:mysql://localhost:3307/trade_user_db
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
