@@ -6,12 +6,17 @@ spring:
     name: trade-user-service
 
   datasource:
-    url: jdbc:mysql://localhost:3307/tradding_db
+    url: jdbc:mysql://localhost:3306/tradding_db
     username: root
-    password: root
+    password: ellenverma
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
     hibernate:
       ddl-auto: update
     show-sql: true
+
+
+
+
+    
